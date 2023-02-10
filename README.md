@@ -1,9 +1,17 @@
 <h1>Projeto Super Mário</h1>
 <p>
-  Página Web desenvolvida para promoção do filme Super Mario Bros. A página contem um vídeo em loop no background e um botão para assistir o trailer do filme diretamente no youtube. Foi utilizado o Java Script para a lógica de fechar e abrir o vídeo.
+  Página Web desenvolvida para promoção do filme Super Mario Bros. A página contem um vídeo em loop no background e um botão para assistir o trailer do filme diretamente no youtube. Foi utilizado o JavaScript para a lógica de fechar e abrir o vídeo.
 </p>
 
 <h2>Tecnologias</h2>
-<img widht="100px" scr="https://user-images.githubusercontent.com/124257673/218191908-09f773f8-ae4b-47b9-8945-b03f86eff3e4.png" alt="JavaScript"/>
+  <span>
+    <img height="32" src="https://user-images.githubusercontent.com/124257673/217507243-554f7e9b-9531-4f7c-8fab-98ec2d17c7c8.svg" alt="HTML5"/>
+    <img height="32" src="https://user-images.githubusercontent.com/124257673/217507241-e77fa63c-fcac-471a-a3d6-430b76e47f10.svg" alt="CSS"/>
+    <img height="32" src="https://user-images.githubusercontent.com/124257673/217507239-3552f262-fecc-4de2-9e1a-5b4446f68969.svg" alt="JavaScript"/>
+</span>
 
-<img scr="https://github.com/C-algaro/projeto_super_mario/issues/1#issue-1580272571" alt="projeto-mario"/>
+<br>
+
+<p>&nbsp</p>
+
+![mario](https://user-images.githubusercontent.com/124257673/218194375-d7da7041-cf12-4bd5-9f86-019bf54bc8f0.jpeg)
