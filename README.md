@@ -1,6 +1,6 @@
 <h1>Projeto Super Mário</h1>
 <p>
-  Página Web desenvolvida para promoção do filme Super Mario Bros. A página contem um vídeo em loop no background e um botão para assistir o trailer do filme diretamente no youtube. Foi utilizado o JavaScript para a lógica de fechar e abrir o vídeo.
+  Página Web desenvolvida para promoção do filme Super Mario Bros. A página contem um vídeo em loop no background e um botão para assistir o trailer do filme, conectado ao youtube. A página foi desenvolvida em HTML e CSS, mas para poder fechar e abrir o vídeo sem complicações foi utilizado JavaScript também.
 </p>
 
 <h2>Tecnologias</h2>
